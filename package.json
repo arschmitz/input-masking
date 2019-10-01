@@ -1,0 +1,26 @@
+{
+  "name": "input-masking",
+  "version": "1.0.0",
+  "description": "Framework agnostic accessible input masking library",
+  "main": "js/masking-input-es6.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estelle/input-masking.git"
+  },
+  "keywords": [
+    "input",
+    "mask",
+    "water",
+    "mark",
+    "masking",
+    "input",
+    "mask",
+    "placeholder"
+  ],
+  "author": "Estelle Weyl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estelle/input-masking/issues"
+  },
+  "homepage": "https://github.com/estelle/input-masking#readme"
+}
